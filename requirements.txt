@@ -1,4 +1,4 @@
-Django==1.9.2
+Django==1.11.29
 SQLAlchemy==1.0.11
 beautifulsoup4==4.4.1
 bitstring==3.1.4
